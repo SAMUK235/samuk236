@@ -10,4 +10,5 @@ Meu nome é Samuel José
 
 ffjoca51@gmail.com
 
-![giga chad]()https://media.tenor.com/TLhWkKdr770AAAAM/giga-chad.gif
+![.]
+(https://media.tenor.com/TLhWkKdr770AAAAM/giga-chad.gif)
